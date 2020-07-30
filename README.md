@@ -7,7 +7,7 @@ Videogular `HLS` plugin repository for distribution on `bower`.
 
 Install [Videogular](http://www.videogular.com/) `hls` plugin with Bower:
 
-`bower install videogular-hls`
+`bower install https://github.com/oatubektest1/videogular-hls-ktc.git`
 
 ### Install Videogular
 
