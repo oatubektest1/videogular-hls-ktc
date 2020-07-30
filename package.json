@@ -1,5 +1,5 @@
 {
-  "name": "videogular-hls",
+  "name": "videogular-hls-sample",
   "version": "0.0.1",
   "main": "index.js",
   "devDependencies": {
